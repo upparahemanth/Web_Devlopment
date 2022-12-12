@@ -1,0 +1,36 @@
+body{
+    background-color: azure;
+}
+#cname{
+    text-align: center;
+}
+#head{
+    text-align: center;
+}
+#con1{
+    border: 1px solid black;background-color: rgba(103, 226, 245, 0.445);
+}
+#rowadd{
+    padding: 5px;
+}
+#row7{
+    padding: 5px;
+}
+#row8{
+    padding: 5px;
+}
+#idup{
+    padding-top: 5px;
+}
+#row9{
+    padding: 5px;
+}
+#row10{
+    padding: 5px;
+}
+#row11{
+    padding: 5px;
+}
+#row12{
+    padding: 5px;
+}
